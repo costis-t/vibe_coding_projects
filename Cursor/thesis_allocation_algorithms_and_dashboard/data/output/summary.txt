@@ -1,0 +1,18 @@
+ALLOCATION RESULTS
+==================
+
+Algorithm: ILP
+Time Limit: 60 seconds
+Total Students: 80
+Objective Value: 532.0
+
+Status: ⚠ Some unassigned
+
+Assignment Details:
+- Preference Rank 10-14 (ranked choices): 80
+- Preference Rank 0-2 (tier preferences): 0
+- Preference Rank 999 (unranked): 0
+- Forced assignments (rank -1): 0
+
+Diagnostics:
+{'status': 'Optimal', 'objective_value': 532.0, 'unassignable_students': [], 'unassigned_after_solve': [], 'topic_overflow': {'topic01': 0, 'topic02': 0, 'topic03': 0, 'topic04': 0, 'topic05': 0, 'topic06': 0, 'topic07': 0, 'topic08': 0, 'topic09': 0, 'topic10': 0, 'topic11': 0, 'topic12': 0, 'topic13': 0, 'topic14': 0, 'topic15': 0, 'topic16': 0, 'topic17': 0, 'topic18': 0, 'topic19': 0, 'topic20': 0, 'topic21': 0, 'topic22': 0, 'topic23': 0, 'topic24': 0, 'topic25': 0, 'topic26': 0, 'topic27': 0, 'topic28': 0, 'topic29': 0}, 'coach_overflow': {'coach01': 0, 'coach02': 0, 'coach03': 0, 'coach04': 0, 'coach05': 0, 'coach06': 0, 'coach07': 0, 'coach08': 0, 'coach09': 0, 'coach10': 0, 'coach11': 0, 'coach12': 0, 'coach13': 0, 'coach14': 0, 'coach15': 0, 'coach16': 0, 'coach17': 0, 'coach18': 0, 'coach19': 0, 'coach20': 0, 'coach21': 0, 'coach22': 0, 'coach23': 0, 'coach24': 0, 'coach25': 0, 'coach26': 0}, 'department_shortfall': {'department01': 0, 'department02': 0, 'department03': 0, 'department04': 0, 'department05': 0, 'department06': 0}, 'tied_students': []}
