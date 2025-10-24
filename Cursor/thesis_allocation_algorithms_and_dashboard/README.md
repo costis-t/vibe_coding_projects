@@ -1,6 +1,6 @@
 # Thesis Topic Allocator Algorithms and Dashboard with Streamlit
 
-## Licence
+## License
 GPLv3
 
 ## Intro
