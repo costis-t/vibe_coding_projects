@@ -1,4 +1,4 @@
-# Thesis Topic Allocator - Professional Edition
+# Thesis Topic Allocator - Professional Edition (rofl)
 
 Optimally assigns each student to **exactly one** thesis topic while maximizing preference satisfaction and respecting:
 - Per-topic capacities
