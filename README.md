@@ -1,2 +1,1 @@
-# vibe_coding_projects
-Started vibe-coding with Cursor, good enough fast results, without learning fun though,...
+
